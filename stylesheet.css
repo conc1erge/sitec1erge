@@ -1,0 +1,14 @@
+:root {
+    font-family: "JetBrains Mono", monospace;
+    --c1-orange: #ff5100;
+    --c1-cyan: #006eff;
+    --bg-main: #222222;
+    --bg-main-transp: #272727b6;
+    --bg-alt: #414141;
+    --bg-alt-transp: #53535393;
+    --selectioncolor: #ff3e5e7a;
+}
+
+::selection {
+    background-color: var(--selectioncolor);
+}
