@@ -12,3 +12,24 @@
 ::selection {
     background-color: var(--selectioncolor);
 }
+
+.afacad-font {
+    font-family: "Afacad", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 24;
+    font-style: normal;
+}
+
+.dmsans-font> {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 28;
+    font-style: normal;
+}
+
+.jetbrainsmono-font> {
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 24;
+    font-style: normal;
+}
