@@ -39,18 +39,18 @@ body {
     background-color: var(--bg-main);
     margin-left: auto;
     margin-right: auto;
-    font-family: "JetBrains Mono";
+    font-family: "DM Sans";
 }
 
 h3 {
     text-align: center;
     font-style: normal;
-    font-family: "Afacad";
+    font-family: "JetBrains Mono";
 }
 
-h1 {
+#mainname {
+    font-size: 86px;
+    font: "Afacad";
     text-align: center;
-    font-size: xx-large;
-    font: "DM Sans";
-    margin-top: 25%;
+    margin-top: 22%;
 }
