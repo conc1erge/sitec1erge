@@ -1,6 +1,7 @@
 # Specific files to block #
 roboring.html
 TODO
+*-old.*
 
 # Compiled source #
 ###################
