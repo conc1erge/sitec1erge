@@ -48,6 +48,17 @@ h3 {
     font-family: "JetBrains Mono";
 }
 
+div.tempfooter {
+    font-size: 24px;
+    text-align: center;
+    font-family: "DM Sans";
+    color:var(--bg-alt-transp);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
 div.mainname {
     font-size: 86px;
     font: "Afacad";
