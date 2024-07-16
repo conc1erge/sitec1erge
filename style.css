@@ -43,7 +43,7 @@ h6 {
 ** Dev Dark Mode:TM:
 */
 body {
-  background-color: #171717;
+  background-color: #222222;
   color: #fff;
 }
 
@@ -90,6 +90,12 @@ main > div {
   width: 100%;
 }
 
+main h4 {
+  font-family: "Afacad", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  color: #414141;
+}
+
 footer {
   margin-top: auto;
   text-align: center;
@@ -116,6 +122,7 @@ footer {
 }
 #linksContainer a {
   color: #ffbb11;
+  text-decoration: none
 }
 
 #linksContainer a svg,
